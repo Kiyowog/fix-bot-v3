@@ -6,7 +6,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Xl:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
