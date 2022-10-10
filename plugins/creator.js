@@ -30,10 +30,10 @@ ${htjava} *🧮 Kelas* : Private
 ${htjava} *🧩 Hobby* : Main Badminton
 ${htjava} *💬 Sifat* : Suka Ngerandom,Asik Kalau udah deket
 ${htjava} *🗺️ Tinggal* : Indo,Gresik,Jawatimur
-${htjava} *❤️ Waifu* : -
+${htjava} *❤️ Waifu* : Banyak Lah
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
+${htjava} *🐈 ɢɪᴛʜᴜʙ:* https://github.com/fahrifaf/
 •·––––––––––––––––––––––––––·•
 `
   let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
