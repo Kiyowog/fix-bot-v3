@@ -53,16 +53,16 @@ global.sig = 'https://instagram.com/fahrifq_' // ig
 global.sgh = 'https://github.com/WH-MODS-BOT/' // github
 global.sgc = '-' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://www.youtube.com/channel/WindahBasudara' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '087785175535' //dana
-global.povo = '08XXXXXXXXXX' //ovo
+global.povo = '-' //ovo
 global.pgopay = '087785175535' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
+global.plinkaja = '-' //link aja
+global.ppulsa = '087785175535' //Xl
 global.ppulsa2 = '087785175535' // kalau ada kartu lain isi aja
 global.psaweria = 'https://linktr.ee/fahrizx'
 
@@ -86,7 +86,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 /*============== STAFF ==============*/
 global.owner = [
   ['6287785175535', 'Fahri', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['-', '62877851755350', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'FHBot'
+global.stickauth = `By © FHBOTZMD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
